@@ -1,6 +1,7 @@
 <img src="https://i.ibb.co/6mHSRm3/llamantino53.jpg" alt="llamantino53" border="0" width="200px">
+[https://huggingface.co/swap-uniba](https://huggingface.co/swap-uniba)
 
-# Model Card for LLaMAntino-2-chat-13b-UltraChat-ITA
+# Model Card for LLaMAntino-2-ITA
 *Last Update: 08/01/2024*<br>
 *Example of Use*: [Colab Notebook](https://colab.research.google.com/drive/1xUite70ANLQp8NwQE93jlI3epj_cpua7?usp=sharing)
 <hr>
@@ -17,7 +18,7 @@ The **chat models** were furter trained using *QLora* using as training data [Ul
 The **fine-tuned models ** were further trained using *QLora* using as training data [dolly-15k-it](https://huggingface.co/datasets/basilepp19/dolly-15k-it) formatted in an instruction-following style or EVALITA 2023 data.
 
 If you are interested in more details regarding the training procedure, you can find the code we used at the following link:
-- **Repository:** [[https://github.com/swapUniba/LLaMAntino](https://huggingface.co/swap-uniba)](https://huggingface.co/swap-uniba)
+- **Repository:** [https://huggingface.co/swap-uniba](https://huggingface.co/swap-uniba)
 
 - **Developed by:** Pierpaolo Basile, Elio Musacchio, Marco Polignano, Lucia Siciliani, Giuseppe Fiameni, Giovanni Semeraro
 - **Funded by:** PNRR project FAIR - Future AI Research
