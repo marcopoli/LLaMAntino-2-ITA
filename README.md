@@ -1,9 +1,11 @@
-<img src="https://i.ibb.co/6mHSRm3/llamantino53.jpg" alt="llamantino53" border="0" width="200px">
-[https://huggingface.co/swap-uniba](https://huggingface.co/swap-uniba)
+<img src="https://i.ibb.co/6mHSRm3/llamantino53.jpg" alt="llamantino53" border="0" width="250px">
+https://huggingface.co/swap-uniba
 
 # Model Card for LLaMAntino-2-ITA
 *Last Update: 08/01/2024*<br>
 *Example of Use*: [Colab Notebook](https://colab.research.google.com/drive/1xUite70ANLQp8NwQE93jlI3epj_cpua7?usp=sharing)
+<br>
+<br>
 <hr>
 
 ## Model description
