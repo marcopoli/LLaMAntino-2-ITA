@@ -17,7 +17,7 @@ The **chat models** were furter trained using *QLora* using as training data [Ul
 The **fine-tuned models ** were further trained using *QLora* using as training data [dolly-15k-it](https://huggingface.co/datasets/basilepp19/dolly-15k-it) formatted in an instruction-following style or EVALITA 2023 data.
 
 If you are interested in more details regarding the training procedure, you can find the code we used at the following link:
-- **Repository:** [https://github.com/swapUniba/LLaMAntino](https://huggingface.co/swap-uniba)
+- **Repository:** [[https://github.com/swapUniba/LLaMAntino](https://huggingface.co/swap-uniba)](https://huggingface.co/swap-uniba)
 
 - **Developed by:** Pierpaolo Basile, Elio Musacchio, Marco Polignano, Lucia Siciliani, Giuseppe Fiameni, Giovanni Semeraro
 - **Funded by:** PNRR project FAIR - Future AI Research
